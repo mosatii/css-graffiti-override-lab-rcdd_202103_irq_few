@@ -1,3 +1,4 @@
+
 body {
   background: black url(../images/sketch.jpg) no-repeat center;
   background-size: cover;
@@ -54,7 +55,7 @@ div#wall .parent #tag-5.slick {
   display: block;
 }
 
-div#wall div.parent div:last-child div#tag-6 {
+div #wall div.parent div:last-child div#tag-6 {
   background: url(../images/tag-6.png) no-repeat;
   z-index: 2;
   display: block;
